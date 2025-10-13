@@ -246,7 +246,7 @@ http://<EC2_PUBLIC_IP>:5080
 **👨‍💻 [Your Name]**
 Machine Learning Engineer | MLOps Enthusiast
 📧 [your.email@example.com](mailto:your.email@example.com)
-🌐 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+🌐 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/UdayBytess)
 
 ---
 
