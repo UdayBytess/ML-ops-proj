@@ -239,24 +239,4 @@ http://<EC2_PUBLIC_IP>:5080
 * Real-time monitoring via AWS CloudWatch
 * Streamlit dashboard for analytics
 
----
 
-## 💡 Author
-
-**👨‍💻 [Your Name]**
-Machine Learning Engineer | MLOps Enthusiast
-📧 [your.email@example.com](mailto:your.email@example.com)
-🌐 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/UdayBytess)
-
----
-
-### ⭐ If you like this project, don’t forget to star it!
-
----
-
-Would you like me to:
-
-* 🔹 Add **architecture diagrams / workflow image links** (to visually show the MLOps pipeline), or
-* 🔹 Keep it purely text-based for now?
-
-That visual addition can make your README *even more impressive* to recruiters.
